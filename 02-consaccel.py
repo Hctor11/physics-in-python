@@ -44,4 +44,4 @@ while t < 4.4:
     
 '''
 NOTA: entre mas chiquito sea dt, mas definida sera la grafica
-'''
+''' 
